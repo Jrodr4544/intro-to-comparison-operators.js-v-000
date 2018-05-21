@@ -1,8 +1,8 @@
 'use strict';
 
 function testFalseLooseEqualityComparison() {
-  var zero = 0;
-  var one  = 1;
+   zero = 0;
+   one  = 1;
   return zero == one;
 }
 
