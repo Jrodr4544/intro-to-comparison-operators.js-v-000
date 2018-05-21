@@ -21,8 +21,8 @@ function testTrueLooseEqualityComparison () {
 function testFalseStrictEqualityComparison() {
   var num    = 1;
   var string = "1";
-  return num === string;
 
+  return num === string;
   
 }
 
