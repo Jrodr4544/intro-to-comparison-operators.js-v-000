@@ -23,6 +23,7 @@ function testFalseStrictEqualityComparison() {
   var string = "1";
 
   return num === string;
+
   
 }
 
