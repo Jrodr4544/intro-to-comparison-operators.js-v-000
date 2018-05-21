@@ -24,7 +24,8 @@ function testFalseStrictEqualityComparison() {
   return num === string;
 }
 
-function testTrueStrictEqualityComparison() {
+function testTrueStrictEqualityComparison() 
+{
   var num    = 1;
   var string = "1";
   return num === parseInt(string);
